@@ -1,0 +1,17 @@
+objective 
+---------
+
+        Movie review system help the viewers to select movies on the basis of reviews so they may save their time and money.
+
+here some users( movie experts ) may give their valuable suggestion in the form of reviews on the scale of (1 to 10) , so
+movie experts first have to watch movie , which is stored in a movie table , and then if they want may review it . this
+we may use this project as a prototype of real project because here we apply all constraints and also manage proper relati_
+_ship (one to one , one to many ) and also try to give proper reply of all possible business problems by applying joins and 
+also define some custom functions triggeres and procedure to get fit well in our project .
+
+
+
+
+
+
+
